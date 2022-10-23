@@ -39,6 +39,6 @@ sh compiler.sh
 
 ## How to execute in Distros Linux like Debian and Ubuntu:
 
-./exercise1 
-./exercise1 CCBE (input as command line argument)
+./exercise1 \
+./exercise1 CCBE (input as command line argument) \
 ./bonus
