@@ -12,5 +12,5 @@ Simple exercise to fix the knowledge acquired in the C++ training
 
 ## Trainee: Waiting my área selection 😊 → My category is VSSS ( Very Small Size Soccer )
 
-[Example]https://autobotz.eng.ufmg.br/soccer.php \
-[Simulator]https://vss-sdk.github.io/book/general.html
+[ Example ](https://autobotz.eng.ufmg.br/soccer.php) \
+[ Simulator ](https://vss-sdk.github.io/book/general.html)
